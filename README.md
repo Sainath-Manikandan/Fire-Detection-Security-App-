@@ -1,5 +1,6 @@
 # Fire-Detection-Security-App-
 This App is made using an image-based approach, a convolutional neural network is trained to detect the fires. The process involves preparing the dataset, annotating the dataset, training the model, and testing the model for validation.
+This is the link to the dataset as well as the final exe file - https://1drv.ms/u/s!ArnI8M-hZOILgbFDjdH1XFumOWVH4g?e=Jc8g00.
 Project UI :
 ![image](https://user-images.githubusercontent.com/112097621/189492698-510d217a-2c55-4db9-87f7-2a818f381b9e.png)
 ![image](https://user-images.githubusercontent.com/112097621/189492703-64393443-58d7-4768-be3b-ab6e58421045.png)
